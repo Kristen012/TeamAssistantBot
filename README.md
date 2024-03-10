@@ -37,5 +37,14 @@
         * 每次需要整理大綱時將資料提取出來，交給langChain執行summarize的指令
     * Todo List
         * 管理任務待辦清單，可以新增，完成和查看待辦清單
+
+### Menu Demo
+
+![](./SenSenMenu.png)
+
+### More Detail
+
+pleas refer to [Presentation](./黑客組_葛萊芬多加十分_簡報.pdf)
+
 ### Ref
 [linebot-find-some](https://github.com/louis70109/linebot-find-some#readme)
